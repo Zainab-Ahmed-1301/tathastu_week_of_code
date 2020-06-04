@@ -7,4 +7,4 @@ print("Profit: ", p)
  
 p1 = p*0.05 + p
 
-print("Selling price to increase the profit by 5%: ", (float(cp) + p1))
+print("Selling price to increase the profit by 5%: ", (float(sp) + p1))
